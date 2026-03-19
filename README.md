@@ -83,4 +83,6 @@ A transparent demonstration of quantitative ESG analysis
 A portfolio piece showcasing data handling, econometrics, and interpretation skills
 A foundation for future, more advanced model development (non-linear, interaction effects, panel data, causal models)
 ![pic](https://github.com/user-attachments/assets/4dcc40de-6983-4901-85f1-e3dfb23eccbd)
+<img width="3000" height="1800" alt="r2_bar_chart" src="https://github.com/user-attachments/assets/5d100fc6-ca6d-4aee-a2d4-210458c883a1" />
+<img width="935" height="414" alt="Screenshot 2026-03-19 1532044" src="https://github.com/user-attachments/assets/f2d5e985-b702-4b26-bf24-00aca0aded7d" />
 
