@@ -82,4 +82,5 @@ This repository serves as:
 A transparent demonstration of quantitative ESG analysis
 A portfolio piece showcasing data handling, econometrics, and interpretation skills
 A foundation for future, more advanced model development (non-linear, interaction effects, panel data, causal models)
+![pic](https://github.com/user-attachments/assets/4dcc40de-6983-4901-85f1-e3dfb23eccbd)
 
